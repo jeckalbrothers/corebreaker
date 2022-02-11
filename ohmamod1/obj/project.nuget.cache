@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GNq1zStIAY1U+tK1EXU52I0xi2MIDiQX0S6QV55cNhBXNzs6WYVghtmw03Jl1sg6N4B6J0XSKdasxezouN0VIw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ohma pc\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\ohmamod1\\ohmamod1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ohma pc\\.nuget\\packages\\tmodloader.codeassist\\0.1.3\\tmodloader.codeassist.0.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}

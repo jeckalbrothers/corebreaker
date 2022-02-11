@@ -1,0 +1,3 @@
+displayName = Ohma's CoreBreaker
+author = Ohma
+version = 0.2
